@@ -1,4 +1,4 @@
-# Operators-in-C-plus-plus
+# Operators in C++
 Experiment 3
 
 ## AIM
