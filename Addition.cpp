@@ -1,6 +1,6 @@
 //Name:Siddhant Kiran Bhosale
 //PRN:23070123038
-//Aim:Implemention of Operators
+//Aim:Implementation of Operators
 
 #include<iostream>
 using namespace std;
